@@ -1,4 +1,4 @@
-Welcome to Server Management documentation!
+Directadmin Installation
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
