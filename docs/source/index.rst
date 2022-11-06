@@ -100,3 +100,34 @@ Donec quis metus porttitor tellus cursus lobortis. Quisque et orci magna. Fusce 
 at vehicula massa rhoncus quis. Mauris augue leo, pretium eget molestie vitae, efficitur nec nulla.
 In hac habitasse platea dictumst. Sed sit amet imperdiet purus. 
 
+
+
+
+
+Perfromance (Optimalisation)
+================
+
+
+Security
+================
+
+
+Backups
+================
+
+
+Integrations
+================
+3rd party software which can be used to make Directadmin or the server even better!
+
+
+*********************
+CloudLinux OS
+*********************
+jjj
+
+
+
+
+Recurring Tasks
+================
